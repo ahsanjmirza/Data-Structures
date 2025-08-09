@@ -84,10 +84,6 @@ Compile your code with a C++11 (or later) standard flag, for example:
 g++ -std=c++11 main.cpp -o main
 ```
 
-## Examples
-
-See `examples/` (if provided) for sample programs demonstrating each data structure.
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit a pull request.
